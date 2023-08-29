@@ -1,5 +1,5 @@
 # Login-System
-A website that containes login, signup and welcome page.
+A responsive website that containes login, signup and welcome pages.
 
 Features:
 
